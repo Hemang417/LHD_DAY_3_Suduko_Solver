@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/thumbnail.png" width="256" height="256">
   <h2 align="center" style="margin-top: -4px !important;">Why solve Sudoku by hand, when you can write script to solve them for ya ?!</h2>
-  <p align="center">
-    <a href="https://www.python.org/">
-    	<img src="https://img.shields.io/badge/python-v3.8-informational">
-    </a>
-  </p>
 </p>
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
