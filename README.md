@@ -10,10 +10,6 @@
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 </p>
-<p align="center">   
-    	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
-</p>
 
 ## Introduction:
 -	Sudoku is one of the most popular logic-based number-placement puzzle game. The literal meaning of "Su-doku" in Japanese is "the number that is single".
